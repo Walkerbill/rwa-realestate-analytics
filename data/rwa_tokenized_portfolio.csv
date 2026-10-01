@@ -1,6 +1,0 @@
-Property_ID,Location,Market_Value_GHS,Annual_Rental_Income_GHS,Zoning_Risk_Score,Latitude,Longitude,Gross_Yield_Pct,Risk_Adjustment_Pct,Risk_Adjusted_Value_GHS,Modelled_Token_Quantity,RWA_Screening_Status,Eligible_Token_Quantity,Screening_Reason
-PROP-001,"Airport Residential, Accra",5000000,350000,1,5.606,-0.168,7.000000000000001,0,5000000.0,50000,ELIGIBLE FOR FURTHER TOKENIZATION REVIEW,50000,Passed prototype risk screening
-PROP-002,Cape Coast (Near UCC),1200000,84000,2,5.114,-1.282,7.000000000000001,0,1200000.0,12000,ELIGIBLE FOR FURTHER TOKENIZATION REVIEW,12000,Passed prototype risk screening
-PROP-003,Kumasi Asokwa,2500000,180000,1,6.674,-1.602,7.199999999999999,0,2500000.0,25000,ELIGIBLE FOR FURTHER TOKENIZATION REVIEW,25000,Passed prototype risk screening
-PROP-004,"East Legon, Accra",4800000,320000,2,5.632,-0.151,6.666666666666667,0,4800000.0,48000,ELIGIBLE FOR FURTHER TOKENIZATION REVIEW,48000,Passed prototype risk screening
-PROP-005,Elmina Coastline,950000,76000,5,5.085,-1.348,8.0,20,760000.0,7600,REJECTED - HIGH RISK,0,Failed prototype high-risk screening threshold
