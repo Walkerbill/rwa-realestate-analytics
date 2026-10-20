@@ -1,34 +1,72 @@
-# Real-World Asset (RWA) Tokenization & Underwriting Pipeline
+# Real Estate RWA Underwriting & Tokenization Screening Pipeline
 
-## 📌 Project Architecture Overview
-This repository contains a full-stack proof-of-concept demonstrating how physical real estate assets can be underwriting-optimized using geospatial risks and programmatically structured for on-chain fractional distribution. 
+## Overview
 
-The goal is to bridge **Regional Planning Frameworks** with **Decentralized Finance (DeFi) Parameterization** to address land title and environmental vulnerabilities in emerging markets like West Africa.
+This repository contains a proof-of-concept pipeline that combines:
 
----
+- Real estate financial analysis
+- Geography and regional planning concepts
+- Geospatial risk screening
+- Python-based data processing
+- RWA (Real-World Asset) tokenization modelling
+- Solidity-based on-chain asset registration
 
-## 🛠️ Repository Ecosystem Component Tree
+The project explores how physical real estate assets can be systematically screened for potential tokenization by combining property-level financial metrics with geographic and planning-related risk indicators.
 
-* **`rwa_pipeline.ipynb` (Python Processing Node)**
-  * Automated data ingestion pipeline simulating high-value property listings.
-  * Quantitative geographic risk indexing layer (automatically applies 20% valuation penalties to high-exposure nodes like coastal erosion zones).
-  * Generates clean, deterministic asset states.
+The core concept is:
 
-* **`RWAPropertyToken.sol` (Solidity Smart Contract)**
-  * Production-ready immutable tokenization layer.
-  * Implements explicit hardcoded state gates mirroring the Python data underwriting model.
-  * Automatically drops non-compliant or high-risk geographic parcels before state mutation.
+**Physical Asset → Geospatial Risk → Financial Underwriting → RWA Screening → Blockchain Asset Registry**
 
----
+This project is a technical and research proof-of-concept. It is not a production investment, legal, regulatory, or securities-issuance system.
 
-## 💻 Environment Prerequisites & Execution
 
-### Data Pipeline Setup
-```bash
-# Ingest dependencies via terminal
-pip install pandas numpy
-```
+## Project Objective
 
-### Smart Contract Target Parameters
-- **Compiler Compliance**: Solidity `^0.8.20`
-- **Security Context**: Single-admin role-bound lifecycle execution patterns.
+The objective is to demonstrate how regional planning and geospatial considerations can be incorporated into an RWA underwriting workflow.
+
+The pipeline currently evaluates:
+
+1. Property market value
+2. Annual rental income
+3. Gross rental yield
+4. Geographic/planning risk score
+5. Risk-adjusted valuation
+6. Theoretical fractional token quantity
+7. RWA screening outcome
+8. On-chain asset registration logic
+
+
+# Project Architecture
+
+```text
+                    REAL ESTATE AsSSET
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │   Property Data     │
+                │ Value / Rent / GIS  │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │ Geospatial Risk     │
+                │ & Planning Screen   │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │ Financial Analysis  │
+                │ Yield / Valuation   │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │ RWA Screening       │
+                │ Pass / Reject       │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │ Solidity Asset      │
+                │ Registry Prototype  │
+                └─────────────────────┘
