@@ -39,7 +39,7 @@ The pipeline currently evaluates:
 # Project Architecture
 
 ```text
-                    REAL ESTATE AsSSET
+                    REAL ESTATE ASSET
                            │
                            ▼
                 ┌─────────────────────┐
