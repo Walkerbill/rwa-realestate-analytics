@@ -1,0 +1,3 @@
+Property_ID,Location,Nearest_Observation_Distance_km,rate_time,se_time,Rate_CI95_Lower,Rate_CI95_Upper,sig_time,Significant_at_1pct,certainty,valid_obs,Coastal_Trend_Interpretation,Spatial_Linkage_Note
+PROP-005,Elmina Coastline,0.021,0.15,0.19,-0.222,0.522,0.421,False,good,21,No statistically significant trend at 1%,Observation is nearby; verify actual parcel and shoreline geometry before interpretation
+PROP-002,Cape Coast (Near UCC),1.531,-0.5,0.14,-0.774,-0.226,0.002,True,good,26,Significant retreat trend at nearest observation,Nearest observation is over 1 km away; parcel-level relationship needs validation
