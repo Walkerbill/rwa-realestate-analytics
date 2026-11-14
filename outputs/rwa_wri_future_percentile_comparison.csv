@@ -1,0 +1,61 @@
+Property_ID,Location,WRI_Climate_Scenario,WRI_Year,WRI_Subsidence,Maximum_Depth_m_P5,Maximum_Depth_m_P50,Maximum_Depth_m_P95,Positive_Depth_Buffer_Records_P5,Positive_Depth_Buffer_Records_P50,Positive_Depth_Buffer_Records_P95,Valid_Buffer_Records_P5,Valid_Buffer_Records_P50,Valid_Buffer_Records_P95,Max_Depth_Difference_P95_minus_P05_m,Max_Depth_Difference_P95_minus_P50_m
+PROP-001,"Airport Residential, Accra",rcp4p5,2030,nosub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-001,"Airport Residential, Accra",rcp4p5,2030,wtsub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-001,"Airport Residential, Accra",rcp4p5,2050,nosub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-001,"Airport Residential, Accra",rcp4p5,2050,wtsub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-001,"Airport Residential, Accra",rcp4p5,2080,nosub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-001,"Airport Residential, Accra",rcp4p5,2080,wtsub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-001,"Airport Residential, Accra",rcp8p5,2030,nosub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-001,"Airport Residential, Accra",rcp8p5,2030,wtsub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-001,"Airport Residential, Accra",rcp8p5,2050,nosub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-001,"Airport Residential, Accra",rcp8p5,2050,wtsub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-001,"Airport Residential, Accra",rcp8p5,2080,nosub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-001,"Airport Residential, Accra",rcp8p5,2080,wtsub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-002,Cape Coast Near UCC,rcp4p5,2030,nosub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-002,Cape Coast Near UCC,rcp4p5,2030,wtsub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-002,Cape Coast Near UCC,rcp4p5,2050,nosub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-002,Cape Coast Near UCC,rcp4p5,2050,wtsub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-002,Cape Coast Near UCC,rcp4p5,2080,nosub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-002,Cape Coast Near UCC,rcp4p5,2080,wtsub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-002,Cape Coast Near UCC,rcp8p5,2030,nosub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-002,Cape Coast Near UCC,rcp8p5,2030,wtsub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-002,Cape Coast Near UCC,rcp8p5,2050,nosub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-002,Cape Coast Near UCC,rcp8p5,2050,wtsub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-002,Cape Coast Near UCC,rcp8p5,2080,nosub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-002,Cape Coast Near UCC,rcp8p5,2080,wtsub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-003,Kumasi Asokwa,rcp4p5,2030,nosub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-003,Kumasi Asokwa,rcp4p5,2030,wtsub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-003,Kumasi Asokwa,rcp4p5,2050,nosub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-003,Kumasi Asokwa,rcp4p5,2050,wtsub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-003,Kumasi Asokwa,rcp4p5,2080,nosub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-003,Kumasi Asokwa,rcp4p5,2080,wtsub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-003,Kumasi Asokwa,rcp8p5,2030,nosub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-003,Kumasi Asokwa,rcp8p5,2030,wtsub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-003,Kumasi Asokwa,rcp8p5,2050,nosub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-003,Kumasi Asokwa,rcp8p5,2050,wtsub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-003,Kumasi Asokwa,rcp8p5,2080,nosub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-003,Kumasi Asokwa,rcp8p5,2080,wtsub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-004,"East Legon, Accra",rcp4p5,2030,nosub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-004,"East Legon, Accra",rcp4p5,2030,wtsub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-004,"East Legon, Accra",rcp4p5,2050,nosub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-004,"East Legon, Accra",rcp4p5,2050,wtsub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-004,"East Legon, Accra",rcp4p5,2080,nosub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-004,"East Legon, Accra",rcp4p5,2080,wtsub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-004,"East Legon, Accra",rcp8p5,2030,nosub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-004,"East Legon, Accra",rcp8p5,2030,wtsub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-004,"East Legon, Accra",rcp8p5,2050,nosub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-004,"East Legon, Accra",rcp8p5,2050,wtsub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-004,"East Legon, Accra",rcp8p5,2080,nosub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-004,"East Legon, Accra",rcp8p5,2080,wtsub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-005,Elmina Coastline,rcp4p5,2030,nosub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-005,Elmina Coastline,rcp4p5,2030,wtsub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-005,Elmina Coastline,rcp4p5,2050,nosub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-005,Elmina Coastline,rcp4p5,2050,wtsub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-005,Elmina Coastline,rcp4p5,2080,nosub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-005,Elmina Coastline,rcp4p5,2080,wtsub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-005,Elmina Coastline,rcp8p5,2030,nosub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-005,Elmina Coastline,rcp8p5,2030,wtsub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-005,Elmina Coastline,rcp8p5,2050,nosub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-005,Elmina Coastline,rcp8p5,2050,wtsub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-005,Elmina Coastline,rcp8p5,2080,nosub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
+PROP-005,Elmina Coastline,rcp8p5,2080,wtsub,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,0.0,0.0
