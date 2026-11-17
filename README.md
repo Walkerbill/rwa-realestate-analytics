@@ -147,22 +147,17 @@ $$\text{Gross Rental Yield (\%)} = \left( \frac{\text{Annual Rental Income}}{\te
 
 The prototype applies an illustrative 20% valuation haircut to properties with a geographic and planning risk score of 4 or higher. Properties below this threshold retain their original market value under the prototype's current assumptions.
 
-\[
-\text{Risk-Adjusted Value} =
-\text{Market Value}\times(1-\text{Adjustment Rate})
-\]
+$$\text{Risk-Adjusted Value} = \text{Market Value} \times (1 - \text{Adjustment Rate})$$
+
 
 For properties that meet the risk threshold:
 
-\[
-\text{Adjustment Rate}=0.20
-\]
+$$\text{Adjustment Rate} = 0.20$$
+
 
 For properties below the threshold:
 
-\[
-\text{Adjustment Rate}=0
-\]
+$$\text{Adjustment Rate} = 0$$
 
 This adjustment is an experimental modelling assumption and does not represent a professionally validated property valuation or regulatory standard.
 
