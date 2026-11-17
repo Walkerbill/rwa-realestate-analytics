@@ -543,10 +543,8 @@ Previously registered property identifiers cannot be registered again.
 
 The contract checks that the proposed token quantity corresponds to the property value using the GHS 100 baseline.
 
-\[
-\text{Expected Tokens} =
-\frac{\text{Property Value (GHS)}}{100}
-\]
+$$\text{Expected Tokens} = \frac{\text{Property Value (GHS)}}{100}$$
+
 
 **Asset Registration**
 
