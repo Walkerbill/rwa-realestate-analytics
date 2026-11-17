@@ -165,10 +165,8 @@ This adjustment is an experimental modelling assumption and does not represent a
 
 The prototype uses an illustrative token denomination of **GHS 100 per token** to estimate the theoretical number of tokens associated with each risk-adjusted property value.
 
-\[
-\text{Modelled Token Quantity} =
-\frac{\text{Risk-Adjusted Property Value}}{100}
-\]
+$$\text{Modelled Token Quantity} = \frac{\text{Risk-Adjusted Property Value}}{100}$$
+
 
 The modelled token quantity represents a theoretical calculation for research and screening purposes. It does not mean that tokens have been issued, sold, or legally approved for distribution.
 
