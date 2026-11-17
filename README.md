@@ -444,12 +444,16 @@ The consolidated future evidence therefore contains:
 
 | Dataset | Observations |
 |---|---:|
-| 5th-percentile sensitivity analysis | 360 |
+| 5th-percentile sensitivity analysis | 180 |
 | 50th-percentile median analysis | 180 |
-| 95th-percentile sensitivity analysis | 360 |
-| **Combined future evidence** | **900** |
+| 95th-percentile sensitivity analysis | 180 |
+| **Combined future evidence** | **540** |
 
-The 540-observation figure refers to the 50th-percentile and sensitivity datasets combined, excluding the historical baseline.
+The sensitivity dataset contains 360 observations in total, comprising 180 records at the 5th percentile and 180 records at the 95th percentile.
+
+The median-projection dataset contains 180 observations.
+
+Together, the three projection levels provide 540 observations across 36 future scenario combinations, with 15 records per scenario.
 
 Across the tested future scenarios, the selected WRI model outputs reported valid coverage without positive modelled coastal inundation depth in the sampled buffers.
 
