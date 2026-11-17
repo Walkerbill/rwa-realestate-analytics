@@ -4,3 +4,5 @@ jupyter>=1.0
 geopandas>=1.1
 matplotlib>=3.9
 requests>=2.32
+rasterio>=1.4
+scipy>=1.11
